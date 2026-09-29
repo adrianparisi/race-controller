@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/pc-dotnet/">
+    <Project Path="pc-dotnet/RaceController.Tests/RaceController.Tests.csproj" />
+    <Project Path="pc-dotnet/RaceController/RaceController.csproj" />
+  </Folder>
+</Solution>
