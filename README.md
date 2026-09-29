@@ -1,6 +1,8 @@
 # RaceController
-
 > Note: this project was created with help from ChatGPT.
+
+<img width="1672" height="941" alt="diagram" src="https://github.com/user-attachments/assets/c9d539ca-d993-485b-b84b-3c4117beab69" />
+
 
 RC receiver to PC controller adapter for a DumboRC P6DC(G) receiver and an Arduino Uno.
 
